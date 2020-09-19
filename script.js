@@ -17,10 +17,12 @@ var division = 20 / 5;
 //5.Code to checks type of the value "frog".
 
 var frogType = typeof "frog";
+console.log(frogType)
 
 //6.Declaration and inizialitation variable called orderHasShipped.
 
 var orderHasShipped = true;
+console.log(orderHasShipped)
 
 //7.If statement.
 
